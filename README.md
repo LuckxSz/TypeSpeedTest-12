@@ -7,7 +7,7 @@
 </div>
 
 > **If the video has an error, reload the page!**<br>
-> Access the online project here **[AQUI](https://luckxsz.github.io/Type-SpeedTest/)**
+> Access the online project here **[AQUI](https://luckxsz.github.io/TypeSpeedTest-12/)**
 
 ## 🤓Technologies Used
 
