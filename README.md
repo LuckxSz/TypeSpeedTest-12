@@ -1,7 +1,9 @@
 <strong><div align="center">
 📹 Project Showcase
-![image](https://github.com/LuckxSz/TypeSpeedTest-12/assets/135531180/cf16b52f-1831-48ae-b7b9-d7492d747f10)
-![image](https://github.com/LuckxSz/TypeSpeedTest-12/assets/135531180/7119c56a-9467-48b2-8039-03edcb125ebf)
+<video src="https://github.com/LuckxSz/TypeSpeedTest-12/assets/135531180/320fba36-e9a0-416c-adfa-30aa015a3fd5">
+
+
+
 
 
 </div>
